@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Yuuko👋
+>
+>  🤖 AI & LLM Practitioner | 💻 Full-Stack Developer | 🔎 Math Enthusiast | 🔧 Mechanical/Control Engineer
+---
+### 🚀 Featured Projects
 
-<!--
-**Asunazzz123/Asunazzz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
 
-Here are some ideas to get you started:
+| **Urban Transit Solution** | 大湾区多模态交通规划系统。包含 C++ 寻路后端与 React 可视化前端。 |`Python` `C++` `SQLite` `React` `BFS` |
+| **Time-Series Visualizer** | 用于对齐和交互式分析多源时序数据的可视化工具。 | `Dash` `Python` `Plotly` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Yuukowww@qq.com) 
