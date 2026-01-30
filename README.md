@@ -7,7 +7,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Urban Transit Platform** | 大湾区多模态交通规划系统。 |`Python` `C++` `SQLite` `React` `BFS` |   
-| **Time-Series Visualizer** | 用于对齐和交互式分析多源时序数据的可视化工具。 | `Dash` `Python` `Plotly` |
+| **Time-Series-Visualizer** | 用于对齐和交互式分析多源时序数据的可视化工具。 | `Dash` `Python` `Plotly` |
 
 
 ---
