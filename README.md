@@ -13,7 +13,7 @@
 ---
 ### 📊 GitHub Stats
 
-[![Yuuko の GitHub stats](profile/stats.svg)](https://github.com/Asunazzz123/github-readme-stats)
+[![Yuuko の GitHub stats](profile/stats.svg)]([https://github.com/Asunazzz123/github-readme-stats](https://raw.githubusercontent.com/Asunazzz123/github-readme-stats/main/profile/stats.svg))
 
 ---
 
