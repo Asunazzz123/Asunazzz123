@@ -13,7 +13,7 @@
 ---
 ### 📊 GitHub Stats
 
-[![Yuuko の GitHub stats](profile/stats.svg)](https://github.com/asunazzz123/github-readme-stats)
+[![Yuuko の GitHub stats](https://github-readme-stats.vercel.app/api?username=Asunazzz123)](https://github.com/asunazzz123/github-readme-stats)
 
 ---
 
