@@ -1,6 +1,6 @@
 # Yuuko です👋
 >
->  🤖 AI & LLM Practitioner | 💻 Full-Stack Developer | 🔎 Math Enthusiast | 🔧 Mechanical/Control Engineer
+>  🤖 LLM & Agent Practitioner | 💻 Full-Stack Developer | 🔎 Math Enthusiast | 🔧 Mechanical/Control Engineer
 ---
 ### 🚀 Featured Projects
 
