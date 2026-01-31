@@ -1,4 +1,4 @@
-# Hi there, I'm Yuuko👋
+# Yuuko です👋
 >
 >  🤖 AI & LLM Practitioner | 💻 Full-Stack Developer | 🔎 Math Enthusiast | 🔧 Mechanical/Control Engineer
 ---
@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats
 
 [![Yuuko の GitHub stats](https://raw.githubusercontent.com/Asunazzz123/github-readme-stats/main/profile/stats.svg)](https://github.com/Asunazzz123/github-readme-stats)
-
+[![Yuuko の GitHub top language stats](https://raw.githubusercontent.com/Asunazzz123/github-readme-stats/main/profile/top-langs.svg)](https://github.com/Asunazzz123/github-readme-stats)
 ---
 
 ### 📫 Connect with Me
