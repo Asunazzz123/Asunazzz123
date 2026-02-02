@@ -7,7 +7,7 @@
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **Train Crawler** | CR车票余票监控与换乘方案筛选 | `Python` `SQLite` | Ongoing |
-| **Urban Transit Platform** | 大湾区多模态交通规划系统。 |`Python` `C++` `SQLite` `React` `BFS` | Ongoing |   
+| **Urban Transit Platform** | 大湾区多模态交通规划系统。 |`Python` `C++` `SQLite` `React`  | Ongoing |   
 | **Time-Series-Visualizer** | 用于对齐和交互式分析多源时序数据的可视化工具。 | `Dash` `Python` `Plotly` | Ongoing |
 |**Fiscra**| 个人记账程序 | `Python` `Typescript` `React`| Finish |
 
