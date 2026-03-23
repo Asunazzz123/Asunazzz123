@@ -1,6 +1,7 @@
 # Yuuko です👋
 >
 >  🤖 LLM & Agent Practitioner | 💻 Full-Stack Developer | 🔎 Math Enthusiast | 🔧 Mechanical/Control Engineer
+> An undergraduate student in Sun Yat-sen University
 ---
 ### 🚀 Featured Projects
 
